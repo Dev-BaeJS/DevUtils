@@ -1,0 +1,32 @@
+{
+	"shop": [
+		{
+			"name": "blade",
+			"price": 100,
+			"req_level": 1,
+			"category": "attack",
+			"desc": "Sword"
+		},
+		{
+			"name": "dagger",
+			"price": 200,
+			"req_level": 2,
+			"category": "attack",
+			"desc": "Dagger"
+		},
+		{
+			"name": "thorn_dagger",
+			"price": 300,
+			"req_level": 2,
+			"category": "attack",
+			"desc": "Thorn dagger"
+		},
+		{
+			"name": "mail",
+			"price": 100,
+			"req_level": 2,
+			"category": "wear",
+			"desc": "Mail"
+		}
+	]
+}
